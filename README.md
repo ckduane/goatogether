@@ -1,5 +1,4 @@
 # goatogether
-[link] (https://goatogether.herokuapp.com/ "goatogether")
 
 ## Description
 An application to explore your area and plan journeys with your friends. Goatogether provides a map-based service to organize and collect your own Twitter posts.
