@@ -24,8 +24,8 @@ Reccomends a journey based on past Twitter users you've gone on journeys with.
 + Click 'I'm feeling Adventurous'
 
 ## Technologies Used
-Back End: Ruby on Rails, ActiveRecord, PostgreSQL
-Front End: jQuery, Ajax, Javascript, HTML, CSS
+Back End: Ruby on Rails, ActiveRecord, PostgreSQL  
+Front End: jQuery, Ajax, Javascript, HTML, CSS  
 APIs: Google Maps, Twitter
 OAuth: Twitter
 
