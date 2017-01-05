@@ -1,7 +1,8 @@
-# GoatTogether
+# GoaTogether
+[link] (https://goatogether.herokuapp.com/ "GoaTogether")
 
 ## Description
-An application to explore your area and plan journeys with your friends. GoatTogether provides a map-based service to organize and collect your own Twitter posts.
+An application to explore your area and plan journeys with your friends. GoaTogether provides a map-based service to organize and collect your own Twitter posts.
 
 ## How to Use
 + Log in with your twitter account
