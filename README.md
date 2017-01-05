@@ -1,8 +1,8 @@
-# GoaTogether
-[link] (https://goatogether.herokuapp.com/ "GoaTogether")
+# goatogether
+[link] (https://goatogether.herokuapp.com/ "goatogether")
 
 ## Description
-An application to explore your area and plan journeys with your friends. GoaTogether provides a map-based service to organize and collect your own Twitter posts.
+An application to explore your area and plan journeys with your friends. Goatogether provides a map-based service to organize and collect your own Twitter posts.
 
 ## How to Use
 + Log in with your twitter account
@@ -30,7 +30,7 @@ APIs: Google Maps, Twitter
 OAuth: Twitter
 
 ## Challenges
-The main challenge developing GoaTogether was running into Twitter's Rate Limits. GoaTogether relies on users sharing geolocation data to map tweets onto Google Maps. Since not all tweets have location enabled, our program takes all of the searched tweets and filters out the ones without geolocation data. Calling the seach function multiple times within a short period of time, or searching a hashtag with a lot of tweets hits Twitter's rate limit.
+The main challenge developing goatogether was running into Twitter's Rate Limits. Goatogether relies on users sharing geolocation data to map tweets onto Google Maps. Since not all tweets have location enabled, our program takes all of the searched tweets and filters out the ones without geolocation data. Calling the seach function multiple times within a short period of time, or searching a hashtag with a lot of tweets hits Twitter's rate limit.
 
 ## Team
 Jack Shelley, @jackshelley  
